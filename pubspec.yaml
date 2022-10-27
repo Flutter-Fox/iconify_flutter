@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.0.0
-  colorful_iconify_flutter: null
+  flutter_svg: ^1.1.5
+  # colorful_iconify_flutter: null
 
 dev_dependencies:
   flutter_test:
